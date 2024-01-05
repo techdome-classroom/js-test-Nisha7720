@@ -31,3 +31,5 @@ function isValidParentheses(input) {
   const result = isValidParentheses(userInput);
   
   console.log(result);
+
+  
